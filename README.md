@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://images6.alphacoders.com/113/thumbbig-1139611.webp" alt="Rukabot" width="500" />
 
-# **RUKA**
+# **RUKA BOT**
 A simple and easy-to-use Whatsapp bot based on open-wa-automate-nodejs and written in Javascript
 
 <h3 align="center">Made with ❤️ by</h3>
