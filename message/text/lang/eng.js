@@ -414,6 +414,7 @@ exports.menu = (jumlahUser, level, xp, role, pushname, requiredXp, premium) => {
     *ѕυρρσят υѕ ву ƒσℓℓσωιηg υѕ ση ιηѕтαgяαм* :https://instagram.com/ign_flextzy
         
    *ѕυρρσят му fb page* :https://www.facebook.com/flexplaysMl/
+   *Source code link (dont forget to put a ⭐)* : https://github.com/debaji-db/Ruka
 
     *Commands might be disabled because of spamming, or by group admin*
     *DON'T CALL OR YOU'LL BE BLOCKED*
@@ -1049,8 +1050,9 @@ exports.rules = () => {
 
 𝙄𝙛 𝙩𝙝𝙚 𝙧𝙪𝙡𝙚𝙨 𝙖𝙧𝙚 𝙪𝙣𝙙𝙚𝙧𝙨𝙩𝙤𝙤𝙙, 𝙥𝙡𝙚𝙖𝙨𝙚 𝙩𝙮𝙥𝙚  *${prefix}𝙢𝙚𝙣𝙪* 𝙩𝙤 𝙜𝙚𝙩 𝙨𝙩𝙖𝙧𝙩𝙚𝙙!
 
-𝙎𝙤𝙪𝙧𝙘𝙚 𝙘𝙤𝙙𝙚 𝙗𝙮:
-𝙬𝙖.𝙢𝙚/919366665173 (𝙛𝙗𝙞 𝙠𝙪𝙣)
+𝙎𝙤𝙪𝙧𝙘𝙚 𝙘𝙤𝙙𝙚 (dont forget to give a ⭐):
+https://github.com/debaji-db/Ruka
+owner : 𝙬𝙖.𝙢𝙚/919366665173 (𝙛𝙗𝙞 𝙠𝙪𝙣)
     `
 }
 
