@@ -307,4 +307,3 @@ If you want to unlock premium commands, please buy me a coffee at least 1 on Ko-
 # Thanks to
 * [`open-wa/wa-automate-nodejs`](https://github.com/open-wa/wa-automate-nodejs)
 * [`YogaSakti/imageToSticker`](https://github.com/YogaSakti/imageToSticker)
-* [`SlavyanDesu`](https://github.com/SlavyanDesu/) 
