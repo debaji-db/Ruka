@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://images6.alphacoders.com/113/thumbbig-1139611.png" alt="Rukabot" width="500" />
+<img src="https://images6.alphacoders.com/113/thumbbig-1139611.webp" alt="Rukabot" width="500" />
 
 # **RUKA**
 A simple and easy-to-use Whatsapp bot based on open-wa-automate-nodejs and written in Javascript
