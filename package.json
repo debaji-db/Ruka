@@ -1,20 +1,20 @@
 {
     "name": "Ruka",
     "version": "1.0.0",
-    "description": "BocchiBot is a multipurpose WhatsApp bot.",
+    "description": "Ruka is a simple and easy-to-use Whatsapp bot based on open-wa-automate-nodejs and written in Javascript.",
     "main": "index.js",
     "scripts": {
         "start": "node index.js"
     },
-    "author": "SlavyanDesu",
+    "author": "debajidb",
     "repository": {
         "type": "git",
-        "url": "https://github.com/SlavyanDesu/BocchiBot.git"
+        "url": "https://github.com/debaji-db/Ruka"
     },
     "bugs": {
-        "url": "https://github.com/SlavyanDesu/BocchiBot/issues"
+        "url": "https://github.com/debaji-db/Ruka/issues"
     },
-    "homepage": "https://github.com/SlavyanDesu/BocchiBot",
+    "homepage": "https://github.com/debaji-db/Ruka",
     "license": "MIT",
     "dependencies": {
         "@justalk/pornhub-api": "^3.5.0",
