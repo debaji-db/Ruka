@@ -15,7 +15,7 @@
         "url": "https://github.com/debaji-db/Ruka/issues"
     },
     "homepage": "https://github.com/debaji-db/Ruka",
-    "license": "MIT",
+    "license": "GPL-3.0 License",
     "dependencies": {
         "@justalk/pornhub-api": "^3.5.0",
         "@open-wa/wa-automate": "^4.22.4",
